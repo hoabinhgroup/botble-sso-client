@@ -1,0 +1,9 @@
+{
+    "name": "SsoLogin",
+    "namespace": "Botble\\SsoLogin\\",
+    "provider": "Botble\\SsoLogin\\Providers\\SsoLoginServiceProvider",
+    "author": "Tuấn Louis",
+    "url": "https://louiscms.com",
+    "version": "1.0",
+    "description": "The description for module sso_login"
+}
