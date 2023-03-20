@@ -1,4 +1,5 @@
 {
+    "id": "hoabinhgroup/botble-sso-client",
     "name": "SsoLogin",
     "namespace": "Botble\\SsoLogin\\",
     "provider": "Botble\\SsoLogin\\Providers\\SsoLoginServiceProvider",
